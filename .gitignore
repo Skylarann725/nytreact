@@ -1,0 +1,9 @@
+npm-debug.log
+.DS_Store
+node-modules
+.idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/nytreact.iml
+.idea/vcs.xml
+.idea/workspace.xml
